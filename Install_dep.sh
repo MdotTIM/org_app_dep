@@ -2,7 +2,7 @@
 
 ###############################################################################
 # Express Environment Readiness Checker
-# Checks whether your machine/project is ready to install Express dependencies.
+# Checks whether your machine is ready to install Express dependencies.
 ###############################################################################
 
 set -u
