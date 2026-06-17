@@ -1,1 +1,1 @@
-alert(1)
+<img src=x onerror=alert("yo")>
